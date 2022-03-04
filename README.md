@@ -61,6 +61,6 @@ mModule.forward(IValue.from(inputTensor),IValue.from(sendTensor),IValue.from(rec
 
 ### 4. Build and run with Android Studio
 
-run on your AVD or real Android device. See this [video](https://drive.google.com/file/d/11L5mIjrLn7B7VdwjQl5vJv3ZVK4hcYut/view?usp=sharing) for a screencast of the app running.
+run on your AVD or real Android device.
 
 ![](screenshot1.jpg)
